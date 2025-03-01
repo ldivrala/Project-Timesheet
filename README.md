@@ -3,7 +3,7 @@
 A Laravel RESTful API for managing users, projects, and timesheets with authentication and CRUD operations.
 
 ## Setup
-1. **Clone**: `git clone https://github.com/<your-username>/<repository-name>.git`
+1. **Clone**: `git clone https://github.com/ldivrala/Project-Timesheet.git`
 2. **Install**: `composer install`
 3. **Env**: Copy `.env.example` to `.env`, update DB settings, run `php artisan key:generate`
 4. **Migrate & Seed**: `php artisan migrate --seed`
